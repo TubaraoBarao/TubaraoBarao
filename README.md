@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TubaraoBarao
+- 👋 Hi, I’m João / @TubaraoBarao
 - 👀 I’m interested in games and web development
 - 🌱 I’m currently learning:
   - Data Structures
