@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @TubaraoBarao
+- 👀 I’m interested in games and web development
+- 🌱 I’m currently learning:
+  - Data Structures
+  - Python
+  - Java
+- 💞️ I’m looking to collaborate on game dev
+- 📫 How to reach me: joaovpgomes0904@gmail.com 
+- 😄 Pronouns: He/Him
