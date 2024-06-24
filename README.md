@@ -4,6 +4,7 @@
   - Data Structures
   - Python
   - Java
+  - GML
 - 💞️ I’m looking to collaborate on game dev
 - 📫 How to reach me: joaovpgomes0904@gmail.com 
 - 😄 Pronouns: He/Him
