@@ -1,8 +1,6 @@
 - 👋 Hi, I’m João / @TubaraoBarao
 - 👀 I’m interested in games and web development
 - 🌱 I’m currently learning:
-  - Data Structures
-  - Python
   - Java
   - GML
 - 💞️ I’m looking to collaborate on game dev
