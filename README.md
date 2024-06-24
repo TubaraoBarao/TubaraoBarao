@@ -4,6 +4,6 @@
   - Java
   - GML
 - 💞️ I’m looking to collaborate on game dev
-- 📫 How to reach me: joaovpgomes0904@gmail.com 
+- 📫 How to reach me: tubaraobarao.joao@gmail.com 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: There's a head attached to my neck and I'm *in* it.
