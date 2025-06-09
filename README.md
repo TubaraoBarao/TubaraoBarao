@@ -1,5 +1,5 @@
 - 👋 Hi, I’m João / @TubaraoBarao
-- 👀 I’m interested in gamedev
+- 👀 I’m interested in game dev
 - 🌱 I’m currently learning:
   - Java
   - Godot
