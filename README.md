@@ -1,8 +1,8 @@
 - 👋 Hi, I’m João / @TubaraoBarao
-- 👀 I’m interested in games and web development
+- 👀 I’m interested in gamedev
 - 🌱 I’m currently learning:
   - Java
-  - GML
+  - Godot
 - 💞️ I’m looking to collaborate on game dev
 - 📫 How to reach me: tubaraobarao.joao@gmail.com 
 - 😄 Pronouns: He/Him
